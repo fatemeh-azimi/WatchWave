@@ -1,0 +1,50 @@
+
+# pip install virtualenv
+
+
+# general modules
+boto3==1.34.74
+celery==5.3.1
+Django==5.0.3
+django-cors-headers==4.2.0
+djangorestframework==3.14.0
+moviepy==1.0.3
+python-dotenv==1.0.0
+redis==4.6.0
+shortuuid==1.0.11
+celery # pip install “django>3.2,<3.3”
+python-decouple #https://pypi.org/project/python-decouple/
+djangorestframework #https://www.django-rest-framework.org/  # pip install djangorestframework
+coreapi # pip install coreapi
+
+
+# third party modules
+pillow  # pip install pillow
+markdown # Markdown support for the browsable API.  # pip install markdown
+django-filter # Filtering support  # pip install django-filter
+drf-yasg[validation] # pip install -U drf-yasg[validation]  # https://pypi.org/project/drf-yasg/
+djangorestframework-simplejwt # https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html  # pip install djangorestframework-simplejwt
+django-jalali # https://pypi.org/project/django-jalali/  # pip install django-jalali
+django-summernote #https://pypi.org/project/django-summernote/  # pip install django-summernote
+
+
+#black #pip install black
+#flake8 #pip install flake8
+
+django-resized  # pip install django-resized
+django-cors-headers # pip install django-cors-headers
+psycopg2-binary 
+
+
+
+######
+django-easy-select2 # pip install django-easy-select2
+redis==4.6.0
+#oauth2_provider # pip install oauth2_provider
+
+
+PyJWT
+ffmpeg-python
+moviepy
+
+
